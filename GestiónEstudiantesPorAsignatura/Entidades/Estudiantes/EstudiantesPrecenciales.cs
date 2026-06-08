@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GestiónEstudiantesPorAsignatura.Entidades.Estudiantes
 {
-    internal class EstudiantesPrecenciales
+    public class EstudiantesPresenciales 
     {
     }
 }
